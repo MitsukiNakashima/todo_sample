@@ -14,6 +14,7 @@
           <div class="panel-heading">
             まずはフォルダを作成しましょう
           </div>
+          <p>a</p>
           <div class="panel-body">
             <div class="text-center">
               <a href="{{ route('folders.create') }}" class="btn btn-primary">
