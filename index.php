@@ -1,1 +1,1 @@
-<?php include_once("inde.blade.php"); ?>
+<?php include_once("index.blade.php"); ?>
