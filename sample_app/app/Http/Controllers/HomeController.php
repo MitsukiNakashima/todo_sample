@@ -17,7 +17,7 @@ class HomeController extends Controller
 
         // まだ一つもフォルダを作っていなければホームページをレスポンスする
         if (is_null($folder)) {
-            return view('home');
+            return view('index');
         }
 
         // フォルダがあればそのフォルダのタスク一覧にリダイレクトする
