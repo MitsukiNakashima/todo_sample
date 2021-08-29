@@ -1,1 +1,0 @@
-<?php header( "Location: https://todosampledeploy.herokuapp.com/" ) ; ?>
