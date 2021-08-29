@@ -25,10 +25,3 @@
       </div>
     </div>
   </div>
-@endsection
-@section('footer')
-@endsection
-
-@section('scripts')
-  @include('share.flatpickr.scripts')
-@endsection
